@@ -1,4 +1,4 @@
-# olanrewaju                                                                                                                   
+# OlanrewajuTheAnalyst                                                                                                                   
 I'm a Senior Data Analyst with a strong passion for turning complex data into meaningful insights that drive business growth and strategic decision-making. With a solid foundation in mathematics and hands-on experience in analytics,
 
 I enjoy solving business problems through data storytelling, visualization, and actionable recommendations. I'm skilled in SQL, Python, Power BI, Microsoft Excel, Tableau, Pandas, NumPy, data visualization, dashboard development, data cleaning, statistical analysis, and business intelligence. I enjoy building end-to-end analytics projects that transform raw data into clear insights for stakeholders.                                                                                             
