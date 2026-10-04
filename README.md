@@ -45,22 +45,3 @@ PostgreSQL • SQL
 Interested in Data Analytics, Business Intelligence, Reporting, and Business Performance Analysis, particularly where data can improve operational efficiency and decision-making.
 
 📫 Open to  Data Analyst opportunities.
-
-
-**OLANREWAJU THE ANALYST**
-
-Data Analyst | Mathematics | SQL | Power BI | Python | Excel
-
-│
-├── 🥇 Customer Behavior Analytics
-│      Python + PostgreSQL + SQL + Power BI + DAX
-│
-├── 🥈 SQL Data Warehouse & Analytics
-│      SQL Server + ETL + Data Modelling + BI
-│
-├── 🥉 Sales Performance Dashboard
-│      Excel + KPI + Business Reporting
-│
-└── 4️⃣ Netflix Content Analysis
-       PostgreSQL + Advanced SQL
-
