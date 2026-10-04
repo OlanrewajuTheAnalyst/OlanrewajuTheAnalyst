@@ -16,15 +16,16 @@ BI & Visualization: Power BI • DAX • Power Query • Excel
 Analytics: Data Cleaning • EDA • KPI Analysis • Data Modelling • ETL • Data Warehousing
 
 ## 📊 Featured Projects
+**🛒 Customer Behavior Analytics**
+
+End-to-end analytics project covering data cleaning, customer analysis, SQL, Python, DAX and interactive Power BI reporting.
+
 **🏗️ SQL Data Warehouse & Analytics**
 
 End-to-end SQL Server data warehouse covering ETL, data cleaning, Bronze/Silver/Gold layers, data modelling, and analytical reporting.
 
 SQL Server • T-SQL • ETL • Data Modelling
 
-**🛒 Customer Behavior Analytics**
-
-End-to-end analytics project covering data cleaning, customer analysis, SQL, Python, DAX and interactive Power BI reporting.
 
 Python • PostgreSQL • SQL • Power BI • DAX
 
