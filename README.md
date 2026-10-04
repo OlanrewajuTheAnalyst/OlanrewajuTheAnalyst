@@ -7,7 +7,7 @@ I combine quantitative thinking and real-world business experience with data ana
 
 🎯 Currently targeting: Junior Data Analyst & Data Analyst roles
 
-# 🛠️ Skills
+### 🛠️ Skills
 
 Data & Databases: SQL • PostgreSQL • SQL Server • Python • Pandas
 
@@ -16,25 +16,25 @@ BI & Visualization: Power BI • DAX • Power Query • Excel
 Analytics: Data Cleaning • EDA • KPI Analysis • Data Modelling • ETL • Data Warehousing
 
 📊 Featured Projects
-# 🏗️ SQL Data Warehouse & Analytics
+### 🏗️ SQL Data Warehouse & Analytics
 
 End-to-end SQL Server data warehouse covering ETL, data cleaning, Bronze/Silver/Gold layers, data modelling, and analytical reporting.
 
 SQL Server • T-SQL • ETL • Data Modelling
 
-# 🛒 Customer Behavior Analytics
+### 🛒 Customer Behavior Analytics
 
 End-to-end analytics project covering data cleaning, customer analysis, SQL, Python, DAX and interactive Power BI reporting.
 
 Python • PostgreSQL • SQL • Power BI • DAX
 
-# 📈 Sales Performance Dashboard
+### 📈 Sales Performance Dashboard
 
 Interactive Excel dashboard analyzing revenue, products, regions, sales channels and key business KPIs.
 
 Excel • PivotTables • PivotCharts • Data Visualization
 
-# 🎬 Netflix Content Analysis
+### 🎬 Netflix Content Analysis
 
 PostgreSQL analysis using aggregations, CTEs, window functions, ranking and business-focused SQL queries.
 
